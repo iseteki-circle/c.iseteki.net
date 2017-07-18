@@ -4,9 +4,12 @@ layout: default
 
 ## 次回予定
 
-- コミックマーケット92 1日目 2017/08/11(Fri)
-    - Azurea + Aristea 関連の本を予定しています。
-    - 黒魔術読本の次号もあるかもしれません。
+### コミックマーケット92 1日目 2017/08/11(Fri)
+
+[東7ホール そ-33b](https://webcatalog.circle.ms/Circle/13313038/) に配置されています。
+
+- Azurea と Aristea の百合本 (予価未定)
+- 黒魔術読本の次号もあるかもしれません。
 
 ## 既刊情報
 
@@ -30,3 +33,7 @@ layout: default
 
 - Portable Wi-Fi Hack (@tmyt)
 - スマートフォンアプリケーションの API を解析して勝手移植 (@iseebi)
+
+## 連絡先
+
+さーくる＠いせてき.net へメールでどうぞ。(さーくるは circle、いせてきは iseteki に置き換えてください)
