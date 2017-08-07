@@ -8,8 +8,12 @@ layout: default
 
 [東7ホール そ-33b](https://webcatalog.circle.ms/Circle/13313038/) に配置されています。
 
-- Azurea と Aristea の百合本 (予価未定)
-- 黒魔術読本の次号もあるかもしれません。
+- Azurea と Aristea の百合本 (1000円くらいまでの価格設定)
+    - ツイッタークライアント百合本です。@tmyt 開発のTwitterクライアントAzurea,Aristea中心です。おまけでAzureaやAristeaの様々な情報が載っています。
+- 伊勢的青魔術読本 (500円くらいまでの価格設定)
+    - いつもの感じのblogには書きづらいネタをまとめた黒魔術読本シリーズ、今回は「青魔術」と称して、某青い航空会社をあれこれしちゃいます。おまけで修行記録なんかもあります。
+
+[backyard of 伊勢的新常識の告知エントリ](http://iseebi.hatenablog.com/entry/2017/08/08/002938)、[コミケWebカタログのサークルページ](https://webcatalog.circle.ms/Circle/13313038/)でもご紹介しておりますので、あわせてご参考ください。
 
 ## 既刊情報
 
