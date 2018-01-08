@@ -4,14 +4,31 @@ layout: default
 
 ## 次回予定
 
-### コミックマーケット92 1日目 2017/08/11(Fri)
+### 技術書典4 2018/04/22(Sun)
 
-[東7ホール そ-33b](https://webcatalog.circle.ms/Circle/13313038/) に配置されています。
-
-- Azurea と Aristea の百合本 (予価未定)
-- 黒魔術読本の次号もあるかもしれません。
+当落待ちです。うまくいけば2画面スマホ本が出ると思います。
 
 ## 既刊情報
+
+### AzureaとAristeaの百合本
+
+2017/08/11(Fri) 刊行 (コミックマーケット92)
+
+- Aristea のお絵かき機能のはなし
+- Freesia の教科書
+- Azurea UWP - Desktop Bridge を添えて
+- 実はあったこんな Azurea の機能
+- Azurea を macOS でつかう
+- 百合本の作り方
+- Chakra をホストしたい
+
+### 伊勢的青魔術読本
+
+2017/08/11(Fri) 刊行 (コミックマーケット92)
+
+- Pass を解析して搭乗予定フライトの最新情報を得る (@iseebi)
+- ANA の機内 WiFi から機体情報を GET する (@tmyt)
+- 伊勢の SFC 修行記 2017 (@iseebi)
 
 ### 伊勢的黒魔術読本 Vol.3
 
