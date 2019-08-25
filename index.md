@@ -4,18 +4,23 @@ layout: default
 
 ## 次回予定
 
-2018/08/10(Fri) コミックマーケット94 西1ホール め-22a
+[技術書典7](https://techbookfest.org/event/tbf07) Cホール い13C
 
-- 伊勢的黒魔術読本 Vol.4 (新刊, 予価500円以内)
-- Aristeaの女の子 ラバーストラップ (新刊, 予価1000円)
+- Ride on Updrift with Push Notifications (新刊, 予価1000円以内)
+- 青いデータベース湯のみ (新刊, 1000円)
+- Aristea ラバーストラップ (既刊, 1000円)
 - Z-01K HACK BOOK (既刊, 800円)
-- AzureaとAristeaの百合本 (既刊, 1000円)
-- ひとりでクラウドつくってみた本 (既刊, 500円)
-- ノンデザイナーのための名刺デザイン (委託, 第3刷, 700円) 
 
-[告知ブログ記事](https://iseebi.hatenablog.com/entry/2018/08/08/235134) もご覧ください
+詳細は近日中にご案内します
 
 ## 既刊情報
+
+### 伊勢的黒魔術読本 Vol.4
+
+2018/08/10(Fri) 刊行 (コミックマーケット94)
+
+- MobileDevice.framework ことはじめ
+- Essential Phone のデュアルカメラでステレオ画像が撮りたかった
 
 ### Z-01K Hack Book
 
